@@ -1,6 +1,6 @@
 # WeatherCleanArchitectureApp
 
-App demonstrating Clean Architecture using Coroutines and Android Jetpack Components (MVVM ,jetPackCompose, flow,coroutines,retrofit,okhttp,hilt)
+App demonstrating Clean Architecture using Coroutines and Android Jetpack Components (Clean Architecure ,jetPackCompose, flow,coroutines,retrofit,okhttp,hilt)
 
 # ScreenShots
 
